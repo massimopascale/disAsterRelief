@@ -1,1 +1,2 @@
 # disAsterRelief
+!!! This Project uses Google ARcore and therefore REQUIRES the use of a Samsung Galaxy S8 or Google Pixel 2. These devices cannot be spoofed, the program must be run on the physical device. Due to identifiers in Gradle files being machine dependent, it is diffuclt to pull this repo and run the app from it. There is a .apk file provided in the root folder, as well as submitted in the "source code" portion of the HackerEarth submission for the hackathon. Please install this .apk on an S8 or Pixel 2 and run from there.
