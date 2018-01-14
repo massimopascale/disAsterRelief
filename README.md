@@ -26,6 +26,8 @@ Disclaimer:
 **Due to the limitations of ARCore, disAsterRelief will ONLY run on a real world Pixel 2 or Samsung S8 (NO EMULATORS)**
 We recommend that you use the provided .apk file to install the application on your device and then run from your device. Gradle’s dependencies on the file structure of the computer the app was built on makes it difficult to build on other computers. To install on your device, take the .apk in the root folder of the github repository or the one supplied in the “source code” section of the HackerEarth submission, and move it to your phone. Then open the .apk in your phone’s file system and install.
 
+Some S8 devices may return an installation error under package conflicts with an existing package of the same name. This is an issue with Android Nougat that affects many .apk files not validated by the Google Play Store (ours being a hackathon product it is not validated). To solve this issue, please follow the instructions at this link: https://forum.xda-developers.com/galaxy-s8/themes/root-package-error-installion-method-s8-t3583653. Unfortunately, we have no control over this as app developers.
+
  
 4. User's Guide
 ---------------
