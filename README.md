@@ -34,5 +34,5 @@ Welcome to disAsterRelief. The goal of this app is to aid EMS and other first re
 
 To use the app, simply launch the app from the app launcher. To initialize the Augemented Reality engine, point your camera at a flat surface, and move your camera right to left slowly until the “Searching for Surface” toaster disappears. As soon as the engine recognizes a surface, the app will populate with victim data and locations calculated relative to your current location using GPS data. Now you can move around your environment and begin locating and rescuing victims. Make sure to look in all directions to find the victims!!
 
-**Disclaimer: Your device may ask for permissions immediately upon the disappearance of the “Searching for Surface” toaster. This may cause the models to fail to load. If this happens, allow your phone longer to survey the area like described above, or quit out of the application and restart (this option is typically faster).
+**Disclaimer: Your device may ask for permissions immediately upon the disappearance of the “Searching for Surface” toaster. This may cause the models to fail to load. If this happens, allow your phone longer to survey the area like described above, or quit out of the application and restart (this option is typically faster).**
 
