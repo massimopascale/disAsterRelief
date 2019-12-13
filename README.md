@@ -1,4 +1,4 @@
-# disAsterRelief
+![disAsterRelief logo](https://github.com/massimopascale/disAsterRelief/blob/master/disaster_relief_final.png)
 
 Contents:
 1. Requirements
