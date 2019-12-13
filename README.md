@@ -1,4 +1,4 @@
-![disAsterRelief logo](https://github.com/massimopascale/disAsterRelief/blob/master/disaster_relief_final.png)
+<img src="https://github.com/massimopascale/disAsterRelief/blob/master/disaster_relief_final.png" height="250"/>
 
 Contents:
 1. Requirements
@@ -10,6 +10,7 @@ Contents:
 ### Requirements
 This Project uses Google ARcore and therefore REQUIRES the use of a Samsung Galaxy S8 or Google Pixel 2. These devices __cannot__ be spoofed, the program must be run on the physical device. Due to identifiers in Gradle files being machine #dependent, it is diffuclt to pull this repo and run the app from it. There is a .apk file provided in the root folder, as #well as submitted in the "source code" portion of the HackerEarth submission for the hackathon. Please install this .apk on #an S8 or Pixel 2 and run from there.
 
+<img src="https://github.com/massimopascale/disAsterRelief/blob/master/disAsterRelief_in_app_view.jpeg" height="230" width="200" />
 
 ### Inspiration, Objectives, and Goals
 -------------------------------------
